@@ -25,7 +25,7 @@ class Library {
     }
 
     public void showLibraryInfo() {
-        System.out.println("LibrarLotion: " + getLocation());
+        System.out.println("Librartion: " + getLocation());
         book.displayInfo();
     }
 }
