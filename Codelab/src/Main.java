@@ -9,7 +9,7 @@ public class Main {
 
         book1.adjustStock(8);
 
-        System.out.println("\n--- Updated Information ---");
+        System.out.println("\n--- Upated Information ---");
         library.showLibraryInfo();
     }
 }
